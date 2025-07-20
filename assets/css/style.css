@@ -37,3 +37,15 @@ body {
   }
 
 }
+
+.mi-boton {
+    border: 1px solid #e91c1c;  /* borde rosado */
+  color: #e91c1c;            /* texto rosado */
+  background-color: transparent;
+  transition: all 0.3s ease;
+}
+
+.mi-boton:hover {
+  background-color: #e91c1c;
+  color:black;
+}
